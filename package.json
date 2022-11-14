@@ -1,0 +1,13 @@
+{
+  "dependecies": {
+    "cypress": "^10.11.0"
+  },
+  "scripts": {
+    "cypress": "cypress open",
+    "cypress:run": "cypress run --record --key 6df2647e-b5af-408d-a261-33fa90062219"
+  },
+  "dependencies": {
+    "cypress": "^10.11.0",
+    "prettier": "2.7.1"
+  }
+}
